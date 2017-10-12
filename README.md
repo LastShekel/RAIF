@@ -1,2 +1,2 @@
 # RAIF
-Pilnensky,Guliev,Komarov,Uralsib
+Pilnensky,Guliev,Uralsib
